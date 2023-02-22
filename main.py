@@ -132,4 +132,4 @@ async def on_ready():
 
 
 # replace the token with your Discord bot token
-client.run('MTA3MTUwMzE0NzA5NDI2MTg2MA.GW6Fco.rwkwyL2oDmj2CJOv09pdweEEN3xosV3B-T4eWY')
+client.run('')
